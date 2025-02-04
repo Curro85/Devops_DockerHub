@@ -60,7 +60,3 @@ jobs:
 # https://github.com/docker/login-action
 # https://github.com/docker/build-push-action
 # https://github.com/appleboy/ssh-action
-
-# https://github.com/docker/login-action
-# https://github.com/docker/build-push-action
-# https://github.com/appleboy/ssh-action
